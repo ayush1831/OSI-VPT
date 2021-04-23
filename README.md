@@ -8,3 +8,7 @@ Whenever, any user of the app login, the  app must be able to track his location
 
 Now he will have the liberty to select any project and vote (if project is completed within the financial year) / comment if the financial year is still in progress.  
 
+
+
+The application is uploaded on google drive and its link is shared in the "app link"
+
